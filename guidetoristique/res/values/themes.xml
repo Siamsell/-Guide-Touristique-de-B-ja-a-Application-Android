@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Guidetoristique" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+    <style name="TitleText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="DescriptionText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#E9FFFCFC</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="TeamText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="btt">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#E0FFFFFF</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+
+
+    <style name="Theme.Guidetoristique" parent="Base.Theme.Guidetoristique" />
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">
+   بجاية مدينة جزائرية عريقة وتاريخية أسسها الناصر بن الناس بن حماد بن زيري أحد ملوك بني حماد بالجزائر في النصف الثاني من القرن الخامس الهجري، والآن تنسب إليه الناصرية. كانت المدينمرحبًا بكم في بجاية، مدينة ساحلية تاريخية غارقة في تراث غني وجمال خالد. استكشف المعالم القديمة، والقصص الأسطورية، والمناظر الطبيعية الخلابة التي شكلت هويتها الفريدة. دع دليلنا يقودك عبر الماضي الساحر لهذه المدينة الرائعة.
+</string>
+    <string name="welc">
+"مرحبا بكم في بجاية</string>
+    <string name="tem">فريقنا ⤵</string>
+    <string name="prn">1. سلامي سهام |  2. بجبدج فاطمة الزهرة |  3. إكرام السعيداني |  4. رانيا قاريتي</string>
+    <string name="lang">
+        "🌍تغيير اللغة"</string>
+    <string name="info" > المزيد من المعلومات </string>
+    <string name="map">
+        خريطة بجاية</string>
+    <string name="site">المواقع </string>
+    <string name="title">VOYAGE DZ</string>
+        <string name="appname">الفئات</string>
+        <string name="beaches">الشواطئ</string>
+        <string name="beaches_desc">أجمل شواطئ بجاية</string>
+        <string name="mountains">الجبال</string>
+        <string name="mountains_desc">الجبال والمسارات</string>
+        <string name="historical_sites">المواقع التاريخية</string>
+        <string name="historical_sites_desc">اكتشف تاريخ بجاية</string>
+        <string name="museums">المتاحف</string>
+        <string name="museums_desc">المتاحف والمعارض الفنية</string>
+        <string name="restaurants">المطاعم</string>
+        <string name="restaurants_desc">أفضل الأماكن للأكل</string>
+        <string name="parks">الحدائق</string>
+        <string name="parks_desc">الحدائق العامة والمساحات الخضراء</string>
+        <string name="hotels">الفنادق</string>
+        <string name="hotels_desc">فنادق بجاية</string>
+        <string name="change_language">تغيير اللغة</string>
+    <string name="go_back">العودة</string>
+    <string name="categories">التصنيفات</string>
+    <string name="bejaia_title">اكتشف بجاية حيث يلتقي التاريخ بسحر الساحل</string>
+    <string name="bejaia_description">
+        تقع بجاية بين البحر الأبيض المتوسط المتلألئ ومنحدرات جبل قورايا الخصبة، وهي مزيج نابض بالحياة من الحكايات القديمة والعجائب الطبيعية. تجول عبر طبقات التاريخ - من الأطلال الرومانية وحصن إسباني قوي إلى المساجد العثمانية - أثناء الاستمتاع بإطلالات بانورامية على خليج حكمه قراصنة البربر.
+        تجول في الميناء الصاخب، حيث يلتقي نفط الصحراء بالتجارة الحديثة، أو استرخِ على شاطئ العقادة الذهبي مع قمة القرد الشهيرة التي تعلوه، موطن قردة المكاك البربرية المرحة. استكشف ثقافة القبائل الأمازيغية الغنية، وتذوق زيت الزيتون والنبيذ المحلي، واستمتع بمسارات حديقة قورايا الوطنية لمشاهدة غروب الشمس.
+        بمزيجها من المناظر الطبيعية الوعرة والأسرار القديمة والأسواق النابضة بالحياة، تدعوك بجاية لاكتشاف جوهرة الجزائر الخفية - مغامرة تلو الأخرى. 🌊⛰️✨
+    </string>
+
+    <!--  Beaches  -->
+
+    <string name="beach_boulimat">شاطئ بوليمات</string>
+    <string name="beach_sahel">شاطئ الساحل</string>
+    <string name="beach_boulimat_desc">شاطئ بوليمات في بجاية يتميز برماله الذهبية ومياهه الصافية، مما يجعله وجهة رائعة للسباحة والاسترخاء.</string>
+    <string name="beach_sahel_desc">شاطئ الساحل هو واحد من أجمل الشواطئ في بجاية، حيث يجمع بين الطبيعة الساحرة والمياه الهادئة، مما يجعله مثاليًا للعائلات.</string>
+    <string name="beach_boulimat_location">تقع شاطئ بوليمات في الجزء الشرقي من بجاية، وهي منطقة هادئة مثالية للاسترخاء والسباحة.</string>
+    <string name="beach_sahel_location">يقع شاطئ الساحل على طول الساحل، ويتميز بمياهه الهادئة وطبيعته الخلابة.</string>
+    <!--  Mountains  -->
+
+    <string name="mountain_yema">يمّا قوريا</string>
+    <string name="mountain_yema_desc">جبل يمّا قوريا يوفر إطلالة رائعة على مدينة بجاية، وهو مكان مثالي للمشي لمسافات طويلة والاستمتاع بالطبيعة.</string>
+    <string name="mountain_yema_location">يقع جبل يمّا قوريا في شمال مدينة بجاية.</string>
+    <!--  Historical Sites  -->
+
+    <string name="site_casbah">قصبة بجاية</string>
+    <string name="site_cap_carbon">كاب كاربون</string>
+    <string name="site_casbah_desc">قصبة بجاية هي معلم تاريخي يعود إلى العصور القديمة، حيث يمكن للزوار استكشاف الطراز المعماري القديم.</string>
+    <string name="site_cap_carbon_desc">كاب كاربون هو أحد أجمل المعالم الطبيعية في بجاية، يوفر إطلالة مذهلة على البحر الأبيض المتوسط.</string>
+    <string name="site_casbah_location">قصبة بجاية تقع في الجزء التاريخي من المدينة، وتعتبر واحدة من أقدم المعالم في المنطقة.</string>
+    <string name="site_cap_carbon_location">كاب كاربون يقع في الشمال الشرقي من بجاية، وهو مكان طبيعي يوفر إطلالة مذهلة على البحر الأبيض المتوسط.</string>
+    <!--  Museums  -->
+
+    <string name="museum_bordj">متحف برج موسى</string>
+    <string name="museum_el_moudjahid">متحف المجاهد</string>
+    <string name="museum_bordj_desc">متحف برج موسى يعرض تاريخ بجاية العريق من خلال القطع الأثرية والمعروضات المميزة.</string>
+    <string name="museum_el_moudjahid_desc">متحف المجاهد يوثق تاريخ الثورة الجزائرية ويعرض مجموعة نادرة من الصور والوثائق.</string>
+    <string name="museum_bordj_location">متحف برج موسى يقع في قلب مدينة بجاية، ويعرض تاريخ المدينة العريق من خلال المعروضات والقطع الأثرية.</string>
+    <string name="museum_el_moudjahid_location">متحف المجاهد يقع بالقرب من مركز المدينة، وهو مخصص لتوثيق تاريخ الثورة الجزائرية.</string>
+    <!--  Restaurants  -->
+
+    <string name="restaurant_table_gourmande">مطعم الطاولة الشهية</string>
+    <string name="restaurant_maison_opera">مطعم ميزون أوبرا</string>
+    <string name="restaurant_atbaq">مطعم أطباق</string>
+    <string name="restaurant_table_gourmande_desc">مطعم الطاولة الشهية في بجاية يقدم أطباقًا لذيذة ومتنوعة تعتمد على المنتجات المحلية، في أجواء ودية ومريحة.</string>
+    <string name="restaurant_maison_opera_desc">مطعم ميزون أوبرا يوفر تجربة طعام راقية مع أطباق فاخرة في بيئة أنيقة وعصرية.</string>
+    <string name="restaurant_atbaq_desc">مطعم أطباق يقدم أشهى الأطباق التقليدية بلمسة عصرية، مما يجعله مكانًا مثاليًا للعائلات والأصدقاء.</string>
+    <string name="restaurant_table_gourmande_location">مطعم الطاولة الشهية يقع في قلب مدينة بجاية، ويقدم أجواء دافئة وأطباقًا محلية على بعد خطوات قليلة من الساحة الرئيسية.</string>
+    <string name="restaurant_maison_opera_location">مطعم ميزون أوبرا يقع بالقرب من دار الأوبرا، ويقدم تجربة طعام راقية في بيئة راقية وعصرية.</string>
+    <string name="restaurant_atbaq_location">مطعم أطباق يقع بالقرب من الساحل، ويقدم الأطباق التقليدية مع لمسة عصرية، مما يجعله مكانًا مثاليًا للتجمعات العائلية والأصدقاء</string>
+    <!--  Parks  -->
+
+    <string name="park_fleur">حديقة الزهور</string>
+    <string name="park_rose">حديقة الورود</string>
+    <string name="park_loisir">حديقة الترفيه</string>
+    <string name="park_fleur_desc">حديقة الزهور في بجاية هي المكان المثالي للنزهات والاستمتاع بجمال الطبيعة.</string>
+    <string name="park_rose_desc">حديقة الورود هي ملاذ رائع للهدوء والاسترخاء، وتقع بالقرب من جامعة بجاية.</string>
+    <string name="park_loisir_desc">حديقة الترفيه تقدم بيئة ممتعة للعائلات، مع مساحات خضراء جميلة للاستمتاع بأوقات رائعة.</string>
+    <string name="park_fleur_location">تقع حديقة الزهور في القطب الحضري، وهي وجهة مميزة لجميع الزوار الباحثين عن الاسترخاء في الطبيعة.</string>
+    <string name="park_rose_location">حديقة الورود تقع بالقرب من جامعة بجاية، مما يجعلها مكانًا مثاليًا للطلاب والزوار.</string>
+    <string name="park_loisir_location">حديقة الترفيه تقع في قلب المدينة بجانب ملعب كرة القدم، وهي وجهة شهيرة للعائلات.</string>
+
+    <string name="hotel_atlantis">فندق أتلانتيس</string>
+    <string name="hotel_nord">فندق الشمال</string>
+    <string name="hotel_lac">فندق البحيرة</string>
+    <string name="hotel_atlantis_desc">فندق أتلانتيس في بجاية هو فندق فاخر يوفر غرفًا حديثة ومريحة مع إطلالة خلابة على البحر الأبيض المتوسط.</string>
+    <string name="hotel_nord_desc">فندق الشمال هو فندق دافئ في بجاية يقدم غرفًا واسعة ومجهزة بأفضل المرافق لضمان راحة الزوار.</string>
+    <string name="hotel_lac_desc">فندق البحيرة في بجاية يوفر تجربة إقامة هادئة مع إطلالة مذهلة على البحيرة، مما يجعله مثاليًا للاسترخاء.</string>
+
+    <string name="hotel_atlantis_location">يقع في قلب مدينة بجاية، بالقرب من المتاجر الرئيسية ووسائل النقل العامة، وعلى بُعد 5 دقائق فقط سيرًا على الأقدام من الساحة المركزية.</string>
+    <string name="hotel_lac_location">يقع في تيشي، وهي منطقة ساحلية هادئة من بجاية، مقابل بحيرة ميزاية الجميلة وعلى بُعد 10 دقائق فقط من وسط المدينة.</string>
+    <string name="hotel_nord_location">يقع في الجزء الشمالي من بجاية، بالقرب من منطقة الميناء، ويوفر وصولاً سريعًا إلى كل من البحر ومحطة القطار الرئيسية.</string>
+    <string name="site_type_hotel">فندق</string>
+    <string name="site_type_restaurant">مطعم</string>
+    <string name="site_type_jardin">حديقة</string>
+    <string name="site_type_beaches">شاطئ</string>
+    <string name="site_type_museums">متحف</string>
+    <string name="site_type_tourist">معلم سياحي</string>
+    <string name="site_type_mountains">جبل</string>
+    <!--  Language Change  -->
+
+    <!--  Additional translations  -->
+    <string name="site_best_place">أفضل مكان</string>
+    <string name="site_best_food">أفضل طعام</string>
+    <string name="site_best_garden">أفضل حديقة</string>
+    <string name="site_best_museum">أفضل متحف</string>
+    <string name="site_best_mountains">أفضل جبال</string>
+    <string name="site_best_beach">أفضل شاطئ</string>
+    <string name="avis">رأي</string>
+</resources>
+
+
+
