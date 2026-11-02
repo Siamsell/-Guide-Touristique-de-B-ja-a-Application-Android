@@ -31,7 +31,7 @@ Application Android (Java) qui fait découvrir la ville de **Béjaïa** (Algéri
    ```
 2. Ouvrir le dossier dans **Android Studio**.
 3. Attendre la synchronisation Gradle (le fichier `local.properties` est créé automatiquement).
-4. Lancer l'application (▶ **Run**) sur un émulateur ou un téléphone Android.
+4. Lancer l'application (**Run**) sur un émulateur ou un téléphone Android.
 
 ##  Structure du projet
 
