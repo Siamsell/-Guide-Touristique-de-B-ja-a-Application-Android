@@ -23,14 +23,3 @@ Application Android (Java) qui fait découvrir la ville de **Béjaïa** (Algéri
 | Build | Gradle (Kotlin DSL) |
 | UI | AppCompat, Material Components, ConstraintLayout, GridLayout, ListView / RecyclerView |
 
-## Lancer le projet
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/<ton-compte>/guidetoristique.git
-   ```
-2. Ouvrir le dossier dans **Android Studio**.
-3. Attendre la synchronisation Gradle (le fichier `local.properties` est créé automatiquement).
-4. Lancer l'application (**Run**) sur un émulateur ou un téléphone Android.
-
-
