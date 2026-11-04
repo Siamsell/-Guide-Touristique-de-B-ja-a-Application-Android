@@ -33,24 +33,4 @@ Application Android (Java) qui fait découvrir la ville de **Béjaïa** (Algéri
 3. Attendre la synchronisation Gradle (le fichier `local.properties` est créé automatiquement).
 4. Lancer l'application (**Run**) sur un émulateur ou un téléphone Android.
 
-##  Structure du projet
-
-```
-
-├guidetoristique/
-│   ├── MainActivity.java        # Accueil, carrousel, langue, navigation GPS
-│   ├── Categorier.java          # Liste des catégories
-│   ├── Siteinfo.java            # Liste des sites d'une catégorie
-│   ├── MoreInfoActivity.java    # Page d'informations
-│   ├── Generator.java           # Données des sites + boutons appel / SMS / e-mail
-│   ├── CategoryAdapter.java
-│   ├── ImageAdapter.java
-│   ├── adapter/                 # SiteAdapter, imagePagerAdapter
-│   └── models/                  # Site, SiteImage, SiteType, CategoryModel, Ville
-└── res/
-    ├── layout/                  # Écrans XML
-    ├── drawable/                # Images et styles
-    ├── values/                  # Textes (EN) et thèmes
-    └── values-ar/               # Textes (AR)
-```
 
