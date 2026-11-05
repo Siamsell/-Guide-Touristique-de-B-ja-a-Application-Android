@@ -22,7 +22,7 @@ Elle regroupe les lieux à découvrir par catégorie, avec des photos, des descr
 ## Aperçu
 
 <p align="center">
-  <img src="docs/screenshots/accueil.png" width="200" />
+  <img src="docs/screenshots/accueil(1).png" width="200" />
   <img src="docs/screenshots/categories.png" width="200" />
   <img src="docs/screenshots/informations.png" width="200" />
 </p>
