@@ -87,16 +87,6 @@ app/src/main/
     └── values-ar/               # Textes en arabe
 ```
 
-## Pistes d'amélioration
 
-- Stocker les sites dans une base de données ou une API plutôt que dans le code
-- Ajouter une carte interactive avec la position de chaque lieu
-- Permettre aux utilisateurs de publier leurs propres avis
-- Ajouter le français comme troisième langue
-- Mettre en place un mode favoris
-
-## Auteure
-
-**Sellami Siham** — Master Génie Logiciel, UMBB
 
 [![GitHub](https://img.shields.io/badge/GitHub-Siamsell-181717?logo=github)](https://github.com/Siamsell)
