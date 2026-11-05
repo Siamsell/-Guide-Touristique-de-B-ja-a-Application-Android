@@ -15,7 +15,8 @@
 
 ## À propos
 
-**Guide Touristique** est une application Android écrite en Java qui présente la ville de **Béjaïa** (Algérie) aux visiteurs. Elle regroupe les lieux à découvrir par catégorie, avec des photos, des descriptions, des avis et des actions rapides pour contacter un établissement ou s'y rendre.
+**Guide Touristique** est une application Android écrite en Java qui présente la ville de **Béjaïa** (Algérie) aux visiteurs. 
+Elle regroupe les lieux à découvrir par catégorie, avec des photos, des descriptions, des avis et des actions rapides pour contacter un établissement ou s'y rendre.
 
 ## Aperçu
 
