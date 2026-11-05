@@ -63,26 +63,8 @@ Elle regroupe les lieux à découvrir par catégorie, avec des photos, des descr
 3. **Attendre la synchronisation Gradle** : le fichier `local.properties` est créé automatiquement.
 4. **Lancer l'application** avec le bouton **Run**.
 
-## Structure du projet
 
-```
-app/src/main/
-├── java/com/siham/guidetoristique/
-│   ├── MainActivity.java        # Accueil, carrousel, changement de langue, GPS
-│   ├── Categorier.java          # Liste des catégories
-│   ├── Siteinfo.java            # Liste des sites d'une catégorie
-│   ├── MoreInfoActivity.java    # Page d'informations
-│   ├── Generator.java           # Données des sites + boutons appel / SMS / e-mail
-│   ├── CategoryAdapter.java
-│   ├── ImageAdapter.java
-│   ├── adapter/                 # SiteAdapter, imagePagerAdapter
-│   └── models/                  # Site, SiteImage, SiteType, CategoryModel, Ville
-└── res/
-    ├── layout/                  # Écrans XML
-    ├── drawable/                # Images et styles
-    ├── values/                  # Textes en anglais
-    └── values-ar/               # Textes en arabe
-```
+
 
 
 
