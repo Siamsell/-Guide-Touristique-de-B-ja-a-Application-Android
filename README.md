@@ -26,6 +26,7 @@ Elle regroupe les lieux à découvrir par catégorie, avec des photos, des descr
   <img src="docs/screenshots/categories.png" width="200" />
   <img src="docs/screenshots/informations.png" width="200" />
 </p>
+
 ## Fonctionnalités
 
 | Fonctionnalité | Description |
