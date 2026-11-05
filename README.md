@@ -1,25 +1,101 @@
-# -Guide-Touristique-de-B-ja-a-Application-Android
- 
-#  Guide Touristique — Béjaïa
+<div align="center">
 
-Application Android (Java) qui fait découvrir la ville de **Béjaïa** (Algérie) : catégories de lieux, fiches détaillées avec photos, avis, et actions rapides (appel, SMS, e-mail, itinéraire).
+# Guide Touristique — Béjaïa
 
-##  Fonctionnalités
+**Application Android pour découvrir la perle de la Méditerranée**
 
-- **Écran d'accueil** avec carrousel d'images (défilement automatique toutes les 3 s, clic pour passer à l'image suivante) et indicateur de position.
-- **7 catégories** : plages, montagnes, sites historiques, musées, restaurants, parcs et hôtels.
-- **Liste des sites** par catégorie : galerie d'images défilante, description, localisation, avis des visiteurs.
-- **Actions rapides** depuis chaque fiche :  appeler,  envoyer un SMS,  envoyer un e-mail.
-- **Navigation GPS** vers la ville via Google Maps.
-- **Bilingue** : bascule entre l'anglais et l'arabe (avec prise en charge de l'affichage droite-à-gauche).
-- **Page « More informations »** de présentation de la ville.
+![Android](https://img.shields.io/badge/Android-API%2024%2B-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+![Langues](https://img.shields.io/badge/Langues-EN%20%7C%20AR-blue)
 
-##  Technologies
+</div>
+
+---
+
+## À propos
+
+**Guide Touristique** est une application Android écrite en Java qui présente la ville de **Béjaïa** (Algérie) aux visiteurs. Elle regroupe les lieux à découvrir par catégorie, avec des photos, des descriptions, des avis et des actions rapides pour contacter un établissement ou s'y rendre.
+
+## Aperçu
+
+
+<!--
+<p align="center">
+  <img src="docs/screenshots/accueil.png" width="200" />
+  <img src="docs/screenshots/categories.png" width="200" />
+  <img src="docs/screenshots/sites.png" width="200" />
+</p>
+-->
+
+## Fonctionnalités
+
+| Fonctionnalité | Description |
+|---|---|
+| **Accueil** | Carrousel d'images avec défilement automatique (3 s), passage manuel d'un clic et indicateur de position |
+| **7 catégories** | Plages, montagnes, sites historiques, musées, restaurants, parcs et hôtels |
+| **Fiches des sites** | Galerie d'images défilante, description, localisation et avis des visiteurs |
+| **Actions rapides** | Appeler, envoyer un SMS ou un e-mail directement depuis la fiche |
+| **Navigation GPS** | Itinéraire vers la ville via Google Maps |
+| **Bilingue** | Bascule entre l'anglais et l'arabe, avec affichage droite-à-gauche |
+| **Page d'informations** | Présentation générale de la ville |
+
+## Technologies
 
 | | |
 |---|---|
-| Langage | Java |
-| Plateforme | Android (minSdk 24 · targetSdk 35) |
-| Build | Gradle (Kotlin DSL) |
-| UI | AppCompat, Material Components, ConstraintLayout, GridLayout, ListView / RecyclerView |
+| **Langage** | Java |
+| **Plateforme** | Android (minSdk 24 · targetSdk 35) |
+| **Build** | Gradle (Kotlin DSL) |
+| **Interface** | AppCompat, Material Components, ConstraintLayout, GridLayout, ListView / RecyclerView |
 
+## Installation
+
+### Prérequis
+- [Android Studio](https://developer.android.com/studio) (version récente)
+- Un émulateur Android ou un téléphone avec le mode développeur activé
+
+### Étapes
+
+1. **Cloner le dépôt**
+   ```bash
+   git clone https://github.com/Siamsell/-Guide-Touristique-de-B-ja-a-Application-Android.git
+   ```
+2. **Ouvrir le projet** dans Android Studio (*File > Open*).
+3. **Attendre la synchronisation Gradle** : le fichier `local.properties` est créé automatiquement.
+4. **Lancer l'application** avec le bouton **Run**.
+
+## Structure du projet
+
+```
+app/src/main/
+├── java/com/siham/guidetoristique/
+│   ├── MainActivity.java        # Accueil, carrousel, changement de langue, GPS
+│   ├── Categorier.java          # Liste des catégories
+│   ├── Siteinfo.java            # Liste des sites d'une catégorie
+│   ├── MoreInfoActivity.java    # Page d'informations
+│   ├── Generator.java           # Données des sites + boutons appel / SMS / e-mail
+│   ├── CategoryAdapter.java
+│   ├── ImageAdapter.java
+│   ├── adapter/                 # SiteAdapter, imagePagerAdapter
+│   └── models/                  # Site, SiteImage, SiteType, CategoryModel, Ville
+└── res/
+    ├── layout/                  # Écrans XML
+    ├── drawable/                # Images et styles
+    ├── values/                  # Textes en anglais
+    └── values-ar/               # Textes en arabe
+```
+
+## Pistes d'amélioration
+
+- Stocker les sites dans une base de données ou une API plutôt que dans le code
+- Ajouter une carte interactive avec la position de chaque lieu
+- Permettre aux utilisateurs de publier leurs propres avis
+- Ajouter le français comme troisième langue
+- Mettre en place un mode favoris
+
+## Auteure
+
+**Sellami Siham** — Master Génie Logiciel, UMBB
+
+[![GitHub](https://img.shields.io/badge/GitHub-Siamsell-181717?logo=github)](https://github.com/Siamsell)
